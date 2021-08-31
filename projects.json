@@ -1,6 +1,13 @@
 {
   "recent": [
     {
+      "image": "src/img/projects/brunelconnect.png",
+      "title": "Brunel Connect",
+      "descrip": "Online collaboration platform to potentially help students feel less lonely. Built using MERN (MongoDB, Express, React, Node.js) stack, hosted on Heroku.",
+      "demo": "https://brunelconnect.herokuapp.com/",
+      "dissCode": "pointer-events: none; cursor: default; opacity: 0.3;"
+    },
+    {
       "image": "src/img/projects/sph.png",
       "title": "Smart Price Hunter's App",
       "descrip": "Designed and developed an Ecommerce cross-platform mobile application for The UK's Largest building material marketplace, using Ionic Framework/Angular",
@@ -21,13 +28,7 @@
       "repo": "https://github.com/AbayIbrayev/ionic4-todoApp",
       "demo": "https://elated-bhabha-128840.netlify.com/"
     },
-    {
-      "image": "src/img/projects/twitterClone.PNG",
-      "title": "Twitter Clone",
-      "descrip": "Minimalist Twitter clone using React and Bootstrap where you can add, search, delete, like posts and make them favourite",
-      "repo": "https://github.com/AbayIbrayev/reacttwitterclone",
-      "demo": "https://quizzical-golick-f1fd52.netlify.com/"
-    },
+    
     {
       "image": "src/img/projects/got.PNG",
       "title": "Game of Thrones app",
@@ -67,12 +68,11 @@
       "demo": "https://abayibrayev.github.io/ShoppingCartJS/"
     },
     {
-      "image": "src/img/projects/ionic.png",
-      "title": "MovieApp ionic/Angular App",
-      "descrip": "Ionic 4/Angular Movie App with an OMDb API implemented and a side-menu navigation. You can search for movies and see their details (plot, rating, actors, genre)",
-      "repo": "https://github.com/AbayIbrayev/ionic4-movieApp",
-      "demo": "",
-      "dissLive": "pointer-events: none; cursor: default; opacity: 0.3;"
+      "image": "src/img/projects/twitterClone.PNG",
+      "title": "Twitter Clone",
+      "descrip": "Minimalist Twitter clone using React and Bootstrap where you can add, search, delete, like posts and make them favourite",
+      "repo": "https://github.com/AbayIbrayev/reacttwitterclone",
+      "demo": "https://quizzical-golick-f1fd52.netlify.com/"
     },
     {
       "image": "src/img/projects/irvas.PNG",
