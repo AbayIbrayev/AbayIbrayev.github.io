@@ -1,7 +1,7 @@
 {
   "recent": [
     {
-      "image": "src/img/projects/brunelconnect.png",
+      "image": "src/img/projects/brunelconnect.PNG",
       "title": "Brunel Connect",
       "descrip": "Online collaboration platform to potentially help students feel less lonely. Built using MERN (MongoDB, Express, React, Node.js) stack, hosted on Heroku.",
       "demo": "https://brunelconnect.herokuapp.com/",
