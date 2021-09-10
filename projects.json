@@ -22,6 +22,13 @@
       "demo": "https://sharesecrets.herokuapp.com/"
     },
     {
+      "image": "src/img/projects/reactChat.PNG",
+      "title": "React Chat",
+      "descrip": "Realtime Chat Application using Socket.io, Node.js/Express, and React, where you can join rooms and use emojis",
+      "repo": "https://github.com/AbayIbrayev/react-chat",
+      "demo": "https://github.com/AbayIbrayev/react-chat/blob/master/Chat.gif"
+    },
+    {
       "image": "src/img/projects/todoster.png",
       "title": "ToDoster ionic/Angular App",
       "descrip": "CRUD To-do cross-platform app using Ionic Framework/Angular with a Firebase Authentication and a side-menu navigation. Ready to be used on Android and iOS",
@@ -35,13 +42,6 @@
       "descrip": "Game of Thrones app using an API of Ice And Fire and React, react-hooks, react-router-dom, react-components, JSX and reactstrap",
       "repo": "https://github.com/AbayIbrayev/GameOfThronesReact",
       "demo": "https://gameofthrones-f8850.web.app/"
-    },
-    {
-      "image": "src/img/projects/ejsTodo.PNG",
-      "title": "EJS To-Do",
-      "descrip": "A Simple To-do list using EJS wth Express, body-parser, modules, HTML/CSS/JS and views. New items are added to the MongoDB Atlas using Mongoose and can be deleted",
-      "repo": "https://github.com/AbayIbrayev/EJSToDo",
-      "demo": "https://powerful-ravine-46106.herokuapp.com/"
     }
   ],
 
@@ -54,11 +54,11 @@
       "demo": "https://powerful-bayou-73407.herokuapp.com/"
     },
     {
-      "image": "src/img/projects/ionic.png",
-      "title": "PokeDex ionic/Angular App",
-      "descrip": "Ionic 4/Angular App using PokéAPI the RESTful Pokémon API with a side-menu navigation, infinite-scroll and swipe-refresh. You can search for pokemons and see details about them",
-      "repo": "https://github.com/AbayIbrayev/ionic4-pokedex",
-      "demo": "https://tender-kepler-cd6ccc.netlify.com/"
+      "image": "src/img/projects/ejsTodo.PNG",
+      "title": "EJS To-Do",
+      "descrip": "A Simple To-do list using EJS wth Express, body-parser, modules, HTML/CSS/JS and views. New items are added to the MongoDB Atlas using Mongoose and can be deleted",
+      "repo": "https://github.com/AbayIbrayev/EJSToDo",
+      "demo": "https://powerful-ravine-46106.herokuapp.com/"
     },
     {
       "image": "src/img/projects/shoppingCart.PNG",
