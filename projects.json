@@ -26,7 +26,7 @@
       "title": "React Chat",
       "descrip": "Realtime Chat Application using Socket.io, Node.js/Express, and React, where you can join rooms and use emojis",
       "repo": "https://github.com/AbayIbrayev/react-chat",
-      "demo": "https://github.com/AbayIbrayev/react-chat/blob/master/Chat.gif"
+      "demo": "https://react-minimalist-chat.netlify.app/"
     },
     {
       "image": "src/img/projects/todoster.png",
