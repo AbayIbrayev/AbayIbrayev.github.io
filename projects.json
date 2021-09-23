@@ -22,11 +22,11 @@
       "demo": "https://sharesecrets.herokuapp.com/"
     },
     {
-      "image": "src/img/projects/reactChat.PNG",
-      "title": "React Chat",
-      "descrip": "Realtime Chat Application using Socket.io, Node.js/Express, and React, where you can join rooms and use emojis",
-      "repo": "https://github.com/AbayIbrayev/react-chat",
-      "demo": "https://react-minimalist-chat.netlify.app/"
+      "image": "src/img/projects/travelMate.PNG",
+      "title": "Travel Mate",
+      "descrip": "Google Maps travel companion that helps you find hotels, attractions, weather, and food & dining places around you using React with Material UI, Google Maps APIs, and Rapid API",
+      "repo": "https://github.com/AbayIbrayev/travel-mate",
+      "demo": "https://travellingmate.netlify.app/"
     },
     {
       "image": "src/img/projects/todoster.png",
@@ -36,13 +36,12 @@
       "demo": "https://elated-bhabha-128840.netlify.com/"
     },
     {
-      "image": "src/img/projects/travelMate.PNG",
-      "title": "Travel Mate",
-      "descrip": "Google Maps travel companion that helps you find hotels, attractions, weather, and food & dining places around you using React with Material UI, Google Maps APIs, and Rapid API",
-      "repo": "https://github.com/AbayIbrayev/travel-mate",
-      "demo": "https://travellingmate.netlify.app/"
+      "image": "src/img/projects/reactChat.PNG",
+      "title": "React Chat",
+      "descrip": "Realtime Chat Application using Socket.io, Node.js/Express, and React, where you can join rooms and use emojis",
+      "repo": "https://github.com/AbayIbrayev/react-chat",
+      "demo": "https://react-minimalist-chat.netlify.app/"
     }
-    
   ],
 
   "personal": [
