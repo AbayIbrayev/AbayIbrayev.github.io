@@ -35,14 +35,14 @@
       "repo": "https://github.com/AbayIbrayev/ionic4-todoApp",
       "demo": "https://elated-bhabha-128840.netlify.com/"
     },
-    
     {
-      "image": "src/img/projects/got.PNG",
-      "title": "Game of Thrones app",
-      "descrip": "Game of Thrones app using an API of Ice And Fire and React, react-hooks, react-router-dom, react-components, JSX and reactstrap",
-      "repo": "https://github.com/AbayIbrayev/GameOfThronesReact",
-      "demo": "https://gameofthrones-f8850.web.app/"
+      "image": "src/img/projects/travelMate.PNG",
+      "title": "Travel Mate",
+      "descrip": "Google Maps travel companion that helps you find hotels, attractions, weather, and food & dining places around you using React with Material UI, Google Maps APIs, and Rapid API",
+      "repo": "https://github.com/AbayIbrayev/travel-mate",
+      "demo": "https://travellingmate.netlify.app/"
     }
+    
   ],
 
   "personal": [
@@ -66,6 +66,13 @@
       "descrip": "Simple shopping cart functionality, where page content is fetched from a local JSON and dynamically displayed on the home page. All the products and the cart content is stored in the local storage",
       "repo": "https://github.com/AbayIbrayev/ShoppingCartJS",
       "demo": "https://abayibrayev.github.io/ShoppingCartJS/"
+    },
+    {
+      "image": "src/img/projects/got.PNG",
+      "title": "Game of Thrones app",
+      "descrip": "Game of Thrones app using an API of Ice And Fire and React, react-hooks, react-router-dom, react-components, JSX and reactstrap",
+      "repo": "https://github.com/AbayIbrayev/GameOfThronesReact",
+      "demo": "https://gameofthrones-f8850.web.app/"
     },
     {
       "image": "src/img/projects/twitterClone.PNG",
@@ -109,13 +116,6 @@
       "descrip": "Skinali Factory Landing page using HTML/CSS, Sass, jQuery from a PSD template. Fully responsive, contains animations and has a before/after slider combined with a slick carousel",
       "repo": "https://github.com/AbayIbrayev/Skinali-Factory__Website",
       "demo": "https://abayibrayev.github.io/Skinali-Factory__Website/"
-    },
-    {
-      "image": "src/img/projects/cv.PNG",
-      "title": "CV/Resume",
-      "descrip": "CV/Resume web page made with CSS and HTML",
-      "repo": "https://github.com/AbayIbrayev/AbayIbrayev.github.io",
-      "demo": "https://abayibrayev.github.io/"
     }
   ],
   "fun": [
