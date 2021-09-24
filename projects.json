@@ -60,6 +60,20 @@
       "demo": "https://powerful-ravine-46106.herokuapp.com/"
     },
     {
+      "image": "src/img/projects/got.PNG",
+      "title": "Game of Thrones app",
+      "descrip": "Game of Thrones app using an API of Ice And Fire and React, react-hooks, react-router-dom, react-components, JSX and reactstrap",
+      "repo": "https://github.com/AbayIbrayev/GameOfThronesReact",
+      "demo": "https://gameofthrones-f8850.web.app/"
+    },
+    {
+      "image": "src/img/projects/twitterClone.PNG",
+      "title": "Twitter Clone",
+      "descrip": "Minimalist Twitter clone using React and Bootstrap where you can add, search, delete, like posts and make them favourite",
+      "repo": "https://github.com/AbayIbrayev/reacttwitterclone",
+      "demo": "https://quizzical-golick-f1fd52.netlify.com/"
+    },
+    {
       "image": "src/img/projects/shoppingCart.PNG",
       "title": "JavaScript Shopping Cart",
       "descrip": "Simple shopping cart functionality, where page content is fetched from a local JSON and dynamically displayed on the home page. All the products and the cart content is stored in the local storage",
