@@ -29,18 +29,18 @@
       "demo": "https://travellingmate.netlify.app/"
     },
     {
-      "image": "src/img/projects/todoster.png",
-      "title": "ToDoster ionic/Angular App",
-      "descrip": "CRUD To-do cross-platform app using Ionic Framework/Angular with a Firebase Authentication and a side-menu navigation. Ready to be used on Android and iOS",
-      "repo": "https://github.com/AbayIbrayev/ionic4-todoApp",
-      "demo": "https://elated-bhabha-128840.netlify.com/"
-    },
-    {
       "image": "src/img/projects/reactChat.PNG",
       "title": "React Chat",
       "descrip": "Realtime Chat Application using Socket.io, Node.js/Express, and React, where you can join rooms and use emojis",
       "repo": "https://github.com/AbayIbrayev/react-chat",
       "demo": "https://react-minimalist-chat.netlify.app/"
+    },
+    {
+      "image": "src/img/projects/todoster.png",
+      "title": "ToDoster ionic/Angular App",
+      "descrip": "CRUD To-do cross-platform app using Ionic Framework/Angular with a Firebase Authentication and a side-menu navigation. Ready to be used on Android and iOS",
+      "repo": "https://github.com/AbayIbrayev/ionic4-todoApp",
+      "demo": "https://elated-bhabha-128840.netlify.com/"
     }
   ],
 
@@ -66,35 +66,7 @@
       "repo": "https://github.com/AbayIbrayev/ShoppingCartJS",
       "demo": "https://abayibrayev.github.io/ShoppingCartJS/"
     },
-    {
-      "image": "src/img/projects/got.PNG",
-      "title": "Game of Thrones app",
-      "descrip": "Game of Thrones app using an API of Ice And Fire and React, react-hooks, react-router-dom, react-components, JSX and reactstrap",
-      "repo": "https://github.com/AbayIbrayev/GameOfThronesReact",
-      "demo": "https://gameofthrones-f8850.web.app/"
-    },
-    {
-      "image": "src/img/projects/twitterClone.PNG",
-      "title": "Twitter Clone",
-      "descrip": "Minimalist Twitter clone using React and Bootstrap where you can add, search, delete, like posts and make them favourite",
-      "repo": "https://github.com/AbayIbrayev/reacttwitterclone",
-      "demo": "https://quizzical-golick-f1fd52.netlify.com/"
-    },
-    {
-      "image": "src/img/projects/irvas.PNG",
-      "title": "Irvas Landing Page",
-      "descrip": "Website/Landing Page for Irvas using HTML/CSS/JS with modals, tabs, calculator, forms, timer, popups and Google Maps. Fully responsive and bundeled using Gulp/Webpack",
-      "repo": "https://github.com/AbayIbrayev/irvasPage",
-      "demo": "",
-      "dissLive": "pointer-events: none; cursor: default; opacity: 0.3;"
-    },
-    {
-      "image": "src/img/projects/belazy.PNG",
-      "title": "Belazy Landing Page",
-      "descrip": "Belazy Landing Page PSD to HTML work using HTML/CSS (SASS), JavaScript and a slick carousel implemented",
-      "repo": "https://github.com/AbayIbrayev/BelazyLandingPage",
-      "demo": "https://clever-easley-cc5729.netlify.com/"
-    },
+    
     {
       "image": "src/img/projects/yogatours.PNG",
       "title": "Yoga Tours Landing Page",
@@ -159,34 +131,6 @@
       "descrip": "Simple Password Generator using JavaScript",
       "repo": "https://github.com/AbayIbrayev/PasswordGeneratorJS",
       "demo": "https://abayibrayev.github.io/PasswordGeneratorJS/"
-    },
-    {
-      "image": "src/img/projects/tileCalculator.png",
-      "title": "Tile Calculator",
-      "descrip": "Simple and very easy to implement Tile Calculator using JavaScript",
-      "repo": "https://github.com/AbayIbrayev/TilesCalculator",
-      "demo": "https://abayibrayev.github.io/TilesCalculator/"
-    },
-    {
-      "image": "src/img/projects/formValidation.png",
-      "title": "Form Validation",
-      "descrip": "Client-Side form validation using JavaScript",
-      "repo": "https://github.com/AbayIbrayev/FormValidationJS",
-      "demo": "https://abayibrayev.github.io/FormValidationJS/"
-    },
-    {
-      "image": "src/img/projects/tindog.PNG",
-      "title": "Bootstrap Tindog Landing page",
-      "descrip": "Simple Tindog Landing page using Bootstrap",
-      "repo": "https://github.com/AbayIbrayev/TinDog",
-      "demo": "https://abayibrayev.github.io/TinDog/"
-    },
-    {
-      "image": "src/img/projects/slider.PNG",
-      "title": "Java Script Slider",
-      "descrip": "Very simple and easy to add JavaScript Slider with arrows and pagination dots navigation",
-      "repo": "https://github.com/AbayIbrayev/JavaScriptSlider",
-      "demo": "https://abayibrayev.github.io/JavaScriptSlider/"
     }
   ]
 }
