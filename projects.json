@@ -46,6 +46,13 @@
 
   "personal": [
     {
+      "image": "src/img/projects/next-meetups.PNG",
+      "title": "Next Meetups",
+      "descrip": "Next.js Meetups Application with dynamic pages to see and create new Meetups using MongoDB and hosted on Vercel",
+      "repo": "https://github.com/AbayIbrayev/next-meetups",
+      "demo": "https://next-coding-meetups.vercel.app/"
+    },
+    {
       "image": "src/img/projects/ejsBlog.PNG",
       "title": "EJS Blog",
       "descrip": "Basic Blog functionality using EJS, Express.js, Node.js, body-parser, Lodash, CSS/JS and Bootstrap. New items are added to the MongoDB Atlas using Mongoose and can be deleted as well",
@@ -87,13 +94,6 @@
       "descrip": "Yoga Tours Landing Page using HTML/CSS, Less and JavaScript. Contains tabs, slider carousel, timer, modals made with JavaScript from scratch. Project is bundled using Webpack and Babel",
       "repo": "https://github.com/AbayIbrayev/yogaLanding",
       "demo": "https://abayibrayev.github.io/yogaLanding/"
-    },
-    {
-      "image": "src/img/projects/activebox.PNG",
-      "title": "ActiveBox Landing Page",
-      "descrip": "ActiveBox Landing page using HTML/CSS, Sass, jQuery from a PSD template. Fully responsive, contains animations and a reviews carousel",
-      "repo": "https://github.com/AbayIbrayev/ActiveBoxLanding",
-      "demo": "https://abayibrayev.github.io/ActiveBoxLanding/"
     },
     {
       "image": "src/img/projects/skinali.PNG",
