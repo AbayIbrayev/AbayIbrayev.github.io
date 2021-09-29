@@ -121,7 +121,8 @@ window.addEventListener('DOMContentLoaded', function () {
   var tabs = __webpack_require__(/*! ./parts/tabs.js */ "./src/js/parts/tabs.js"),
       dark = __webpack_require__(/*! ./parts/dark.js */ "./src/js/parts/dark.js"),
       language = __webpack_require__(/*! ./parts/language.js */ "./src/js/parts/language.js"),
-      menu = __webpack_require__(/*! ./parts/menu.js */ "./src/js/parts/menu.js");
+      menu = __webpack_require__(/*! ./parts/menu.js */ "./src/js/parts/menu.js"),
+      skills = __webpack_require__(/*! ./parts/skills.js */ "./src/js/parts/skills.js");
 
   tabs();
   setTimeout(function () {
@@ -130,6 +131,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
   language();
   menu();
+  skills();
 });
 
 /***/ }),
@@ -321,6 +323,26 @@ function menu() {
 }
 
 module.exports = menu;
+
+/***/ }),
+
+/***/ "./src/js/parts/skills.js":
+/*!********************************!*\
+  !*** ./src/js/parts/skills.js ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+function skills() {
+  /* ----------------------------- display a list of skill ----------------------------- */
+  var skillsList = document.querySelector('.skills__list');
+  var skills = ['HTML', 'CSS/SCSS/SASS', 'JavaScript', 'React/Redux', 'Next.js', 'jQuery', 'Ionic Framework', 'Git/GitHub', 'NPM', 'TypeScript', 'Webpack', 'Babel', 'Node.js', 'Express.js/EJS', 'MongoDB/Mongoose', 'Angular', 'PHP', 'SQL/MySQL'];
+  skillsList.innerHTML = skills.map(function (skill) {
+    return "\n      <li class='skills__item'>\n        ".concat(skill, "\n        <i class='far fa-check-circle skills__icon'></i>\n      </li>");
+  }).join('');
+}
+
+module.exports = skills;
 
 /***/ }),
 
